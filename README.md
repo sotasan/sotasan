@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://🎀🌸.ws/">
-        <img src="https://sota.moe/button.webp" alt="🎀🌸.ws">
+    <a href="https://sota.moe/">
+        <img src="https://sota.moe/88x31.webp" alt="🎀🌸.ws">
     </a>
 </p>
